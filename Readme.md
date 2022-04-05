@@ -22,5 +22,5 @@
 `./start.sh database_name`
 
 ### Cхема взаимодействия компонентов
-![Scheme](scheme.png)
+![Scheme](arch.png)
 
